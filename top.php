@@ -24,7 +24,7 @@
 
                                     
                                         <li class="divider"></li>
-                                        <li><a href="firstpage.html"><i class="ti-power-off m-r-10 text-danger"></i> Logout</a></li>
+                                        <li><a href="page-login-admin.php"><i class="ti-power-off m-r-10 text-danger"></i> Logout</a></li>
                                     </ul>
                                 </li>  
                                               
