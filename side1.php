@@ -4,9 +4,9 @@
                     <div id="sidebar-menu">
                         <ul>
 
-                          <li class="text-muted menu-title"><h4>Navigation</h4></li>
-   <li><a href="proposal.php"><h5>Fill Form</h5></a></li>   
-   <li><a href="showpolicy.php"><h5>View Policy</h5></li>    
+                          <li class="text-muted menu-title">Navigation</li>
+   <li><a href=".php">View Details Form</a></li>   
+   <li><a href="ja.php">Add Policy</a></li>    
    
 
  <li class="has_sub">
